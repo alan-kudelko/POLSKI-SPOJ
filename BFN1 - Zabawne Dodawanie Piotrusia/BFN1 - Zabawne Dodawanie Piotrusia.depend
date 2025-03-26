@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681930685 source:d:\spoj\c++\bfn1 - zabawne dodawanie piotrusia\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+

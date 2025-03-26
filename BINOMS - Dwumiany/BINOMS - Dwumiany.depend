@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682085071 source:d:\spoj\c++\binoms - dwumiany\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

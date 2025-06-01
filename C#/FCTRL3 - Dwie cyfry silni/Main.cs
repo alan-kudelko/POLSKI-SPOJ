@@ -1,9 +1,7 @@
 using System;
 
-public class FCTRL3
-{
-    public static void Main(string[] args)
-    {
+public class FCTRL3{
+    static void Main(string[] args){
         int testow;
         long liczba;
         
